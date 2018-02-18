@@ -23,7 +23,10 @@ body {
   }
 }
 nav {
-  background-color: #56b3cf !important;
+  background-color: #34363c !important;
+}
+.nav-a {
+    color: white;
 }
 .navbar-default .navbar-brand {
     color: #fff;

@@ -40,7 +40,6 @@ function uniqueArray(obj){
 var displayDiag = function (d) {
     var toggle = 1;
     d_imp = d.splice(0,5);
-    debugger
     d_imp.forEach(function (data) {
         $('#diag tbody').append('<tr class="odd gradeX">\
                                     <td>' + data.description + '</td>\
