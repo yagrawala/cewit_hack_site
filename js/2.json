@@ -1,0 +1,1961 @@
+{
+"Diagnoses": {
+      "Diagnosis": [{
+        "UpdatedOn": "2015-01-03T23:00:41Z",
+        "Diagnosis": {
+          "Code": "330259",
+          "Description": "History of Obstructive sleep apnea",
+          "SDACodingStandard": "IMO ProblemIT",
+          "OriginalText": "History of Obstructive sleep apnea",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "327.23",
+              "Description": "History of Obstructive sleep apnea",
+              "CodeSystem": "ICD-9-CM",
+              "Type": "A"
+            }, {
+              "Code": "G47.33",
+              "Description": "History of Obstructive sleep apnea",
+              "CodeSystem": "ICD-10-CM",
+              "Type": "A"
+            }, {
+              "Code": "78275009",
+              "Description": "History of Obstructive sleep apnea",
+              "CodeSystem": "SNOMEDCT",
+              "Type": "A"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "417662000",
+          "Description": "PMH"
+        },
+        "Status": {
+          "Code": "413322009",
+          "Description": "Resolved",
+          "SDACodingStandard": "SNOMEDCT"
+        },
+        "EnteredBy": {
+          "Code": "ADI KATZ MD",
+          "Description": "ADI KATZ MD"
+        }
+      }, {
+        "UpdatedOn": "2015-01-03T23:00:41Z",
+        "Diagnosis": {
+          "Code": "710620",
+          "Description": "History of hypertension",
+          "SDACodingStandard": "IMO ProblemIT",
+          "OriginalText": "History of hypertension",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "V12.59",
+              "Description": "History of hypertension",
+              "CodeSystem": "ICD-9-CM",
+              "Type": "A"
+            }, {
+              "Code": "Z86.79",
+              "Description": "History of hypertension",
+              "CodeSystem": "ICD-10-CM",
+              "Type": "A"
+            }, {
+              "Code": "161501007",
+              "Description": "History of hypertension",
+              "CodeSystem": "SNOMEDCT",
+              "Type": "A"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "417662000",
+          "Description": "PMH"
+        },
+        "Status": {
+          "Code": "413322009",
+          "Description": "Resolved",
+          "SDACodingStandard": "SNOMEDCT"
+        },
+        "EnteredBy": {
+          "Code": "ADI KATZ MD",
+          "Description": "ADI KATZ MD"
+        }
+      }, {
+        "UpdatedOn": "2015-01-03T23:00:41Z",
+        "Diagnosis": {
+          "Code": "710635",
+          "Description": "History of osteoarthritis",
+          "SDACodingStandard": "IMO ProblemIT",
+          "OriginalText": "History of osteoarthritis",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "V13.4",
+              "Description": "History of osteoarthritis",
+              "CodeSystem": "ICD-9-CM",
+              "Type": "A"
+            }, {
+              "Code": "Z87.39",
+              "Description": "History of osteoarthritis",
+              "CodeSystem": "ICD-10-CM",
+              "Type": "A"
+            }, {
+              "Code": "161568003",
+              "Description": "History of osteoarthritis",
+              "CodeSystem": "SNOMEDCT",
+              "Type": "A"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "417662000",
+          "Description": "PMH"
+        },
+        "Status": {
+          "Code": "413322009",
+          "Description": "Resolved",
+          "SDACodingStandard": "SNOMEDCT"
+        },
+        "EnteredBy": {
+          "Code": "ADI KATZ MD",
+          "Description": "ADI KATZ MD"
+        }
+      }, {
+        "UpdatedOn": "2015-01-03T23:00:41Z",
+        "Diagnosis": {
+          "Code": "42444",
+          "Description": "Dysmenorrhea",
+          "SDACodingStandard": "IMO ProblemIT",
+          "OriginalText": "Dysmenorrhea",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "625.3",
+              "Description": "Dysmenorrhea",
+              "CodeSystem": "ICD-9-CM",
+              "Type": "A"
+            }, {
+              "Code": "N94.6",
+              "Description": "Dysmenorrhea",
+              "CodeSystem": "ICD-10-CM",
+              "Type": "A"
+            }, {
+              "Code": "266599000",
+              "Description": "Dysmenorrhea",
+              "CodeSystem": "SNOMEDCT",
+              "Type": "A"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "55607006",
+          "Description": "Problem"
+        },
+        "Status": {
+          "Code": "55561003",
+          "Description": "Active",
+          "SDACodingStandard": "SNOMEDCT"
+        },
+        "EnteredBy": {
+          "Code": "ADI KATZ MD",
+          "Description": "ADI KATZ MD"
+        }
+      }, {
+        "UpdatedOn": "2015-01-03T23:00:41Z",
+        "Diagnosis": {
+          "Code": "710753",
+          "Description": "Abnormal uterine bleeding",
+          "SDACodingStandard": "IMO ProblemIT",
+          "OriginalText": "Abnormal uterine bleeding",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "626.9",
+              "Description": "Abnormal uterine bleeding",
+              "CodeSystem": "ICD-9-CM",
+              "Type": "A"
+            }, {
+              "Code": "N93.9",
+              "Description": "Abnormal uterine bleeding",
+              "CodeSystem": "ICD-10-CM",
+              "Type": "A"
+            }, {
+              "Code": "4499100011",
+              "Description": "Abnormal uterine bleeding",
+              "CodeSystem": "SNOMEDCT",
+              "Type": "A"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "55607006",
+          "Description": "Problem"
+        },
+        "Status": {
+          "Code": "55561003",
+          "Description": "Active",
+          "SDACodingStandard": "SNOMEDCT"
+        },
+        "EnteredBy": {
+          "Code": "ADI KATZ MD",
+          "Description": "ADI KATZ MD"
+        }
+      }, {
+        "UpdatedOn": "2015-01-03T23:00:41Z",
+        "Diagnosis": {
+          "Code": "25069",
+          "Description": "Bacterial vaginosis",
+          "SDACodingStandard": "IMO ProblemIT",
+          "OriginalText": "Bacterial vaginosis",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "616.10",
+              "Description": "Bacterial vaginosis",
+              "CodeSystem": "ICD-9-CM",
+              "Type": "A"
+            }, {
+              "Code": "N76.0",
+              "Description": "Bacterial vaginosis",
+              "CodeSystem": "ICD-10-CM",
+              "Type": "A"
+            }, {
+              "Code": "419760006",
+              "Description": "Bacterial vaginosis",
+              "CodeSystem": "SNOMEDCT",
+              "Type": "A"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "55607006",
+          "Description": "Problem"
+        },
+        "Status": {
+          "Code": "55561003",
+          "Description": "Active",
+          "SDACodingStandard": "SNOMEDCT"
+        },
+        "EnteredBy": {
+          "Code": "ADI KATZ MD",
+          "Description": "ADI KATZ MD"
+        }
+      }, {
+        "UpdatedOn": "2015-01-03T23:00:41Z",
+        "Diagnosis": {
+          "Code": "300372",
+          "Description": "Fibroids",
+          "SDACodingStandard": "IMO ProblemIT",
+          "OriginalText": "Fibroids",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "218.9",
+              "Description": "Fibroids",
+              "CodeSystem": "ICD-9-CM",
+              "Type": "A"
+            }, {
+              "Code": "D25.9",
+              "Description": "Fibroids",
+              "CodeSystem": "ICD-10-CM",
+              "Type": "A"
+            }, {
+              "Code": "95315005",
+              "Description": "Fibroids",
+              "CodeSystem": "SNOMEDCT",
+              "Type": "A"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "55607006",
+          "Description": "Problem"
+        },
+        "Status": {
+          "Code": "55561003",
+          "Description": "Active",
+          "SDACodingStandard": "SNOMEDCT"
+        },
+        "EnteredBy": {
+          "Code": "ADI KATZ MD",
+          "Description": "ADI KATZ MD"
+        }
+      }, {
+        "UpdatedOn": "2015-01-03T23:00:41Z",
+        "Diagnosis": {
+          "Code": "513674",
+          "Description": "Postop check",
+          "SDACodingStandard": "IMO ProblemIT",
+          "OriginalText": "Postop check",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "V67.00",
+              "Description": "Postop check",
+              "CodeSystem": "ICD-9-CM",
+              "Type": "A"
+            }, {
+              "Code": "Z09",
+              "Description": "Postop check",
+              "CodeSystem": "ICD-10-CM",
+              "Type": "A"
+            }, {
+              "Code": "305058001",
+              "Description": "Postop check",
+              "CodeSystem": "SNOMEDCT",
+              "Type": "A"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "55607006",
+          "Description": "Problem"
+        },
+        "Status": {
+          "Code": "55561003",
+          "Description": "Active",
+          "SDACodingStandard": "SNOMEDCT"
+        },
+        "EnteredBy": {
+          "Code": "ADI KATZ MD",
+          "Description": "ADI KATZ MD"
+        }
+      }, {
+        "EncounterNumber": "42622592",
+        "Diagnosis": {
+          "Code": "218.9",
+          "Description": "218.9"
+        },
+        "DiagnosisType": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        }
+      }, {
+        "EncounterNumber": "90897967",
+        "DiagnosingClinician": {
+          "Code": "92231",
+          "Description": "92231"
+        },
+        "Diagnosis": {
+          "Code": "V67.00",
+          "Description": "SURGERY FOLLOW-UP NOS",
+          "SDACodingStandard": "I9"
+        },
+        "DiagnosisType": {
+          "Code": "DF",
+          "Description": "DF"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "Active"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2015-01-27T13:10:00Z"
+      }, {
+        "EncounterNumber": "90884876",
+        "DiagnosingClinician": {
+          "Code": "92231",
+          "Description": "92231"
+        },
+        "Diagnosis": {
+          "Code": "041.9",
+          "Description": "BACTERIAL INFECTION NOS",
+          "SDACodingStandard": "I9"
+        },
+        "DiagnosisType": {
+          "Code": "DF",
+          "Description": "DF"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "Active"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-30T13:50:00Z"
+      }, {
+        "EncounterNumber": "90884876",
+        "DiagnosingClinician": {
+          "Code": "92231",
+          "Description": "92231"
+        },
+        "Diagnosis": {
+          "Code": "V67.00",
+          "Description": "SURGERY FOLLOW-UP NOS",
+          "SDACodingStandard": "I9"
+        },
+        "DiagnosisType": {
+          "Code": "DF",
+          "Description": "DF"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "Active"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-30T13:50:00Z"
+      }, {
+        "UpdatedOn": "2014-12-17T10:21:31Z",
+        "EncounterNumber": "42622592",
+        "DiagnosingClinician": {
+          "Code": "adkatz",
+          "Description": "Katz, Adi",
+          "Name": {
+            "FamilyName": "Katz",
+            "GivenName": "Adi",
+            "ProfessionalSuffix": "MD"
+          },
+          "CareProviderType": {
+            "Description": "Attending"
+          }
+        },
+        "Diagnosis": {
+          "Code": "824903",
+          "Description": "Chronic anemia",
+          "SDACodingStandard": "IMO",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "285.9",
+              "CodeSystem": "ICD9"
+            }, {
+              "Code": "3768354900500",
+              "CodeSystem": "Source_ID"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "U-PR",
+          "Description": "Pre-Op Dx"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-17T10:21:31Z"
+      }, {
+        "UpdatedOn": "2014-12-17T10:20:41Z",
+        "EncounterNumber": "42622592",
+        "DiagnosingClinician": {
+          "Code": "adkatz",
+          "Description": "Katz, Adi",
+          "Name": {
+            "FamilyName": "Katz",
+            "GivenName": "Adi",
+            "ProfessionalSuffix": "MD"
+          },
+          "CareProviderType": {
+            "Description": "Attending"
+          }
+        },
+        "Diagnosis": {
+          "Code": "19126",
+          "Description": "Acute blood loss anemia",
+          "SDACodingStandard": "IMO",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "285.1",
+              "CodeSystem": "ICD9"
+            }, {
+              "Code": "3768354700500",
+              "CodeSystem": "Source_ID"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "U-PO",
+          "Description": "Post-Op Dx"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-17T10:20:41Z"
+      }, {
+        "UpdatedOn": "2014-12-17T10:20:47Z",
+        "ToTime": "2014-12-17T10:20:47Z",
+        "EncounterNumber": "42622592",
+        "DiagnosingClinician": {
+          "Code": "adkatz",
+          "Description": "Katz, Adi",
+          "Name": {
+            "FamilyName": "Katz",
+            "GivenName": "Adi",
+            "ProfessionalSuffix": "MD"
+          },
+          "CareProviderType": {
+            "Description": "Attending"
+          }
+        },
+        "Diagnosis": {
+          "Code": "37980",
+          "Description": "Anemia",
+          "SDACodingStandard": "IMO",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "285.9",
+              "CodeSystem": "ICD9"
+            }, {
+              "Code": "3768354600500",
+              "CodeSystem": "Source_ID"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "U-PO",
+          "Description": "Post-Op Dx"
+        },
+        "Status": {
+          "Code": "I",
+          "Description": "I"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-17T10:20:21Z"
+      }, {
+        "UpdatedOn": "2014-12-17T10:19:57Z",
+        "EncounterNumber": "42622592",
+        "DiagnosingClinician": {
+          "Code": "adkatz",
+          "Description": "Katz, Adi",
+          "Name": {
+            "FamilyName": "Katz",
+            "GivenName": "Adi",
+            "ProfessionalSuffix": "MD"
+          },
+          "CareProviderType": {
+            "Description": "Attending"
+          }
+        },
+        "Diagnosis": {
+          "Code": "41472180",
+          "Description": "Abnormal uterine bleeding (AUB)",
+          "SDACodingStandard": "IMO",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "3768354400500",
+              "CodeSystem": "Source_ID"
+            }, {
+              "Code": "626.9",
+              "CodeSystem": "ICD9"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "U-PO",
+          "Description": "Post-Op Dx"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-17T10:19:57Z"
+      }, {
+        "UpdatedOn": "2014-12-17T10:19:06Z",
+        "EncounterNumber": "42622592",
+        "DiagnosingClinician": {
+          "Code": "adkatz",
+          "Description": "Katz, Adi",
+          "Name": {
+            "FamilyName": "Katz",
+            "GivenName": "Adi",
+            "ProfessionalSuffix": "MD"
+          },
+          "CareProviderType": {
+            "Description": "Attending"
+          }
+        },
+        "Diagnosis": {
+          "Code": "78065",
+          "Description": "Uterine myoma",
+          "SDACodingStandard": "IMO",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "218.9",
+              "CodeSystem": "ICD9"
+            }, {
+              "Code": "3768354300500",
+              "CodeSystem": "Source_ID"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "U-PR",
+          "Description": "Pre-Op Dx"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-17T10:19:06Z"
+      }, {
+        "UpdatedOn": "2014-12-17T06:56:14Z",
+        "EncounterNumber": "42622592",
+        "DiagnosingClinician": {
+          "Code": "nbenjaatho",
+          "Description": "Benja-Athonsirikul, Notawan",
+          "Name": {
+            "FamilyName": "Benja-Athonsirikul",
+            "GivenName": "Notawan",
+            "ProfessionalSuffix": "MD"
+          },
+          "CareProviderType": {
+            "Description": "Resident"
+          }
+        },
+        "Diagnosis": {
+          "Code": "300370",
+          "Description": "Fibroid",
+          "SDACodingStandard": "IMO",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "218.9",
+              "CodeSystem": "ICD9"
+            }, {
+              "Code": "3767617500500",
+              "CodeSystem": "Source_ID"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "U-P",
+          "Description": "Principal DC Dx"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-17T06:56:14Z"
+      }, {
+        "EncounterNumber": "42622592",
+        "DiagnosingClinician": {
+          "Code": "92231",
+          "Description": "92231"
+        },
+        "Diagnosis": {
+          "Code": "218.9",
+          "Description": "UTERINE LEIOMYOMA NOS",
+          "SDACodingStandard": "I9"
+        },
+        "DiagnosisType": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "Active"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-16T09:59:00Z"
+      }, {
+        "UpdatedOn": "2014-12-02T11:38:32Z",
+        "FromTime": "2014-12-02T00:00:00Z",
+        "EncounterNumber": "90869788",
+        "DiagnosingClinician": {
+          "Code": "ltraube",
+          "Description": "Traube, Lynne",
+          "Name": {
+            "FamilyName": "Traube",
+            "GivenName": "Lynne",
+            "ProfessionalSuffix": "NP"
+          },
+          "CareProviderType": {
+            "Description": "Nurse Practitioner"
+          }
+        },
+        "Diagnosis": {
+          "Code": "197778",
+          "Description": "Need for prophylactic measure",
+          "SDACodingStandard": "IMO",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "3708564100500",
+              "CodeSystem": "Source_ID"
+            }, {
+              "Code": "V07.9",
+              "CodeSystem": "ICD9"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "Problem/DX5",
+          "Description": "Problem/DX5"
+        },
+        "IdentificationTime": "2014-12-02T00:00:00Z",
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-02T11:38:32Z"
+      }, {
+        "UpdatedOn": "2014-12-02T11:36:54Z",
+        "FromTime": "2014-12-02T00:00:00Z",
+        "EncounterNumber": "90869788",
+        "DiagnosingClinician": {
+          "Code": "ltraube",
+          "Description": "Traube, Lynne",
+          "Name": {
+            "FamilyName": "Traube",
+            "GivenName": "Lynne",
+            "ProfessionalSuffix": "NP"
+          },
+          "CareProviderType": {
+            "Description": "Nurse Practitioner"
+          }
+        },
+        "Diagnosis": {
+          "Code": "46871",
+          "Description": "Allergy",
+          "SDACodingStandard": "IMO",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "3708563900500",
+              "CodeSystem": "Source_ID"
+            }, {
+              "Code": "995.3",
+              "CodeSystem": "ICD9"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "PMH",
+          "Description": "PMH"
+        },
+        "IdentificationTime": "2014-12-02T00:00:00Z",
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-02T11:36:54Z"
+      }, {
+        "UpdatedOn": "2014-12-02T11:35:23Z",
+        "EncounterNumber": "90869788",
+        "DiagnosingClinician": {
+          "Code": "ltraube",
+          "Description": "Traube, Lynne",
+          "Name": {
+            "FamilyName": "Traube",
+            "GivenName": "Lynne",
+            "ProfessionalSuffix": "NP"
+          },
+          "CareProviderType": {
+            "Description": "Nurse Practitioner"
+          }
+        },
+        "Diagnosis": {
+          "Code": "51143",
+          "Description": "Osteoarthritis",
+          "SDACodingStandard": "IMO",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "3708563800500",
+              "CodeSystem": "Source_ID"
+            }, {
+              "Code": "715.90",
+              "CodeSystem": "ICD9"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "PMH",
+          "Description": "PMH"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-02T11:35:23Z"
+      }, {
+        "UpdatedOn": "2014-12-02T11:24:56Z",
+        "EncounterNumber": "90869788",
+        "DiagnosingClinician": {
+          "Code": "ltraube",
+          "Description": "Traube, Lynne",
+          "Name": {
+            "FamilyName": "Traube",
+            "GivenName": "Lynne",
+            "ProfessionalSuffix": "NP"
+          },
+          "CareProviderType": {
+            "Description": "Nurse Practitioner"
+          }
+        },
+        "Diagnosis": {
+          "Code": "27129",
+          "Description": "Substance abuse",
+          "SDACodingStandard": "IMO",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "305.90",
+              "CodeSystem": "ICD9"
+            }, {
+              "Code": "3708544200500",
+              "CodeSystem": "Source_ID"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "PMH",
+          "Description": "PMH"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-02T11:24:56Z"
+      }, {
+        "UpdatedOn": "2014-12-02T11:24:35Z",
+        "EncounterNumber": "90869788",
+        "DiagnosingClinician": {
+          "Code": "ltraube",
+          "Description": "Traube, Lynne",
+          "Name": {
+            "FamilyName": "Traube",
+            "GivenName": "Lynne",
+            "ProfessionalSuffix": "NP"
+          },
+          "CareProviderType": {
+            "Description": "Nurse Practitioner"
+          }
+        },
+        "Diagnosis": {
+          "Code": "41696",
+          "Description": "Depression",
+          "SDACodingStandard": "IMO",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "311",
+              "CodeSystem": "ICD9"
+            }, {
+              "Code": "3708544100500",
+              "CodeSystem": "Source_ID"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "PMH",
+          "Description": "PMH"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-02T11:24:35Z"
+      }, {
+        "UpdatedOn": "2014-12-02T12:31:51Z",
+        "EncounterNumber": "90869788",
+        "DiagnosingClinician": {
+          "Code": "ltraube",
+          "Description": "Traube, Lynne",
+          "Name": {
+            "FamilyName": "Traube",
+            "GivenName": "Lynne",
+            "ProfessionalSuffix": "NP"
+          },
+          "CareProviderType": {
+            "Description": "Nurse Practitioner"
+          }
+        },
+        "Diagnosis": {
+          "Code": "94262",
+          "Description": "Asthma",
+          "SDACodingStandard": "IMO",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "3708544000500",
+              "CodeSystem": "Source_ID"
+            }, {
+              "Code": "493.90",
+              "CodeSystem": "ICD9"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "PMH",
+          "Description": "PMH"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-02T11:24:24Z"
+      }, {
+        "UpdatedOn": "2014-12-02T11:24:15Z",
+        "EncounterNumber": "90869788",
+        "DiagnosingClinician": {
+          "Code": "ltraube",
+          "Description": "Traube, Lynne",
+          "Name": {
+            "FamilyName": "Traube",
+            "GivenName": "Lynne",
+            "ProfessionalSuffix": "NP"
+          },
+          "CareProviderType": {
+            "Description": "Nurse Practitioner"
+          }
+        },
+        "Diagnosis": {
+          "Code": "86491",
+          "Description": "Hypertension",
+          "SDACodingStandard": "IMO",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "3708543900500",
+              "CodeSystem": "Source_ID"
+            }, {
+              "Code": "401.9",
+              "CodeSystem": "ICD9"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "PMH",
+          "Description": "PMH"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-02T11:24:15Z"
+      }, {
+        "UpdatedOn": "2014-12-02T11:23:59Z",
+        "FromTime": "2014-12-02T00:00:00Z",
+        "EncounterNumber": "90869788",
+        "DiagnosingClinician": {
+          "Code": "ltraube",
+          "Description": "Traube, Lynne",
+          "Name": {
+            "FamilyName": "Traube",
+            "GivenName": "Lynne",
+            "ProfessionalSuffix": "NP"
+          },
+          "CareProviderType": {
+            "Description": "Nurse Practitioner"
+          }
+        },
+        "Diagnosis": {
+          "Code": "196119",
+          "Description": "Sleep apnea",
+          "SDACodingStandard": "IMO",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "3708543800500",
+              "CodeSystem": "Source_ID"
+            }, {
+              "Code": "780.57",
+              "CodeSystem": "ICD9"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "PMH",
+          "Description": "PMH"
+        },
+        "IdentificationTime": "2014-12-02T00:00:00Z",
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-02T11:23:59Z"
+      }, {
+        "UpdatedOn": "2014-12-02T11:23:40Z",
+        "EncounterNumber": "90869788",
+        "DiagnosingClinician": {
+          "Code": "ltraube",
+          "Description": "Traube, Lynne",
+          "Name": {
+            "FamilyName": "Traube",
+            "GivenName": "Lynne",
+            "ProfessionalSuffix": "NP"
+          },
+          "CareProviderType": {
+            "Description": "Nurse Practitioner"
+          }
+        },
+        "Diagnosis": {
+          "Code": "29757",
+          "Description": "Morbid obesity",
+          "SDACodingStandard": "IMO",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "278.01",
+              "CodeSystem": "ICD9"
+            }, {
+              "Code": "3708543700500",
+              "CodeSystem": "Source_ID"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "PMH",
+          "Description": "PMH"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-02T11:23:40Z"
+      }, {
+        "UpdatedOn": "2014-12-02T11:23:33Z",
+        "EncounterNumber": "90869788",
+        "DiagnosingClinician": {
+          "Code": "ltraube",
+          "Description": "Traube, Lynne",
+          "Name": {
+            "FamilyName": "Traube",
+            "GivenName": "Lynne",
+            "ProfessionalSuffix": "NP"
+          },
+          "CareProviderType": {
+            "Description": "Nurse Practitioner"
+          }
+        },
+        "Diagnosis": {
+          "Code": "38413",
+          "Description": "Anxiety",
+          "SDACodingStandard": "IMO",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "300.00",
+              "CodeSystem": "ICD9"
+            }, {
+              "Code": "3708543600500",
+              "CodeSystem": "Source_ID"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "PMH",
+          "Description": "PMH"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-02T11:23:33Z"
+      }, {
+        "UpdatedOn": "2014-12-02T11:23:24Z",
+        "FromTime": "2014-12-02T00:00:00Z",
+        "EncounterNumber": "90869788",
+        "DiagnosingClinician": {
+          "Code": "ltraube",
+          "Description": "Traube, Lynne",
+          "Name": {
+            "FamilyName": "Traube",
+            "GivenName": "Lynne",
+            "ProfessionalSuffix": "NP"
+          },
+          "CareProviderType": {
+            "Description": "Nurse Practitioner"
+          }
+        },
+        "Diagnosis": {
+          "Code": "300370",
+          "Description": "Fibroid",
+          "SDACodingStandard": "IMO",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "218.9",
+              "CodeSystem": "ICD9"
+            }, {
+              "Code": "3708543500500",
+              "CodeSystem": "Source_ID"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "PMH",
+          "Description": "PMH"
+        },
+        "IdentificationTime": "2014-12-02T00:00:00Z",
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-02T11:23:24Z"
+      }, {
+        "UpdatedOn": "2014-12-02T11:23:08Z",
+        "EncounterNumber": "90869788",
+        "DiagnosingClinician": {
+          "Code": "ltraube",
+          "Description": "Traube, Lynne",
+          "Name": {
+            "FamilyName": "Traube",
+            "GivenName": "Lynne",
+            "ProfessionalSuffix": "NP"
+          },
+          "CareProviderType": {
+            "Description": "Nurse Practitioner"
+          }
+        },
+        "Diagnosis": {
+          "Code": "51531",
+          "Description": "Ovarian cyst",
+          "SDACodingStandard": "IMO",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "3708543400500",
+              "CodeSystem": "Source_ID"
+            }, {
+              "Code": "620.2",
+              "CodeSystem": "ICD9"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "PMH",
+          "Description": "PMH"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-02T11:23:08Z"
+      }, {
+        "UpdatedOn": "2014-12-02T11:22:39Z",
+        "EncounterNumber": "90869788",
+        "DiagnosingClinician": {
+          "Code": "ltraube",
+          "Description": "Traube, Lynne",
+          "Name": {
+            "FamilyName": "Traube",
+            "GivenName": "Lynne",
+            "ProfessionalSuffix": "NP"
+          },
+          "CareProviderType": {
+            "Description": "Nurse Practitioner"
+          }
+        },
+        "Diagnosis": {
+          "Code": "47537",
+          "Description": "Keloid",
+          "SDACodingStandard": "IMO",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "3708543300500",
+              "CodeSystem": "Source_ID"
+            }, {
+              "Code": "701.4",
+              "CodeSystem": "ICD9"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "PMH",
+          "Description": "PMH"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-02T11:22:39Z"
+      }, {
+        "UpdatedOn": "2014-12-02T10:55:00Z",
+        "EncounterNumber": "90869788",
+        "DiagnosingClinician": {
+          "Code": "ltraube",
+          "Description": "Traube, Lynne",
+          "Name": {
+            "FamilyName": "Traube",
+            "GivenName": "Lynne",
+            "ProfessionalSuffix": "NP"
+          },
+          "CareProviderType": {
+            "Description": "Nurse Practitioner"
+          }
+        },
+        "Diagnosis": {
+          "Code": "27603",
+          "Description": "Menometrorrhagia",
+          "SDACodingStandard": "IMO",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "3708355900500",
+              "CodeSystem": "Source_ID"
+            }, {
+              "Code": "626.2",
+              "CodeSystem": "ICD9"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "PMH",
+          "Description": "PMH"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-02T10:55:00Z"
+      }, {
+        "UpdatedOn": "2014-12-02T10:47:12Z",
+        "EncounterNumber": "90869788",
+        "DiagnosingClinician": {
+          "Code": "ltraube",
+          "Description": "Traube, Lynne",
+          "Name": {
+            "FamilyName": "Traube",
+            "GivenName": "Lynne",
+            "ProfessionalSuffix": "NP"
+          },
+          "CareProviderType": {
+            "Description": "Nurse Practitioner"
+          }
+        },
+        "Diagnosis": {
+          "Code": "3708355700500",
+          "Description": "Hypertension NOS",
+          "SDACodingStandard": "Source_ID",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "3708355700500",
+              "CodeSystem": "Source_ID"
+            }, {
+              "Code": "401.9",
+              "CodeSystem": "ICD-9"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "ICD-9",
+          "Description": "ICD-9"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-02T10:47:12Z"
+      }, {
+        "UpdatedOn": "2014-12-02T10:47:03Z",
+        "EncounterNumber": "90869788",
+        "DiagnosingClinician": {
+          "Code": "ltraube",
+          "Description": "Traube, Lynne",
+          "Name": {
+            "FamilyName": "Traube",
+            "GivenName": "Lynne",
+            "ProfessionalSuffix": "NP"
+          },
+          "CareProviderType": {
+            "Description": "Nurse Practitioner"
+          }
+        },
+        "Diagnosis": {
+          "Code": "3708355600500",
+          "Description": "Screen Exam Oth Spec Viral",
+          "SDACodingStandard": "Source_ID",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "3708355600500",
+              "CodeSystem": "Source_ID"
+            }, {
+              "Code": "V73.89",
+              "CodeSystem": "ICD-9"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "ICD-9",
+          "Description": "ICD-9"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-02T10:47:03Z"
+      }, {
+        "UpdatedOn": "2014-12-02T10:46:50Z",
+        "EncounterNumber": "90869788",
+        "DiagnosingClinician": {
+          "Code": "ltraube",
+          "Description": "Traube, Lynne",
+          "Name": {
+            "FamilyName": "Traube",
+            "GivenName": "Lynne",
+            "ProfessionalSuffix": "NP"
+          },
+          "CareProviderType": {
+            "Description": "Nurse Practitioner"
+          }
+        },
+        "Diagnosis": {
+          "Code": "3708355500500",
+          "Description": "Pregnancy Test Unconfirm",
+          "SDACodingStandard": "Source_ID",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "3708355500500",
+              "CodeSystem": "Source_ID"
+            }, {
+              "Code": "V72.40",
+              "CodeSystem": "ICD-9"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "ICD-9",
+          "Description": "ICD-9"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-02T10:46:50Z"
+      }, {
+        "UpdatedOn": "2014-12-02T10:46:24Z",
+        "EncounterNumber": "90869788",
+        "DiagnosingClinician": {
+          "Code": "ltraube",
+          "Description": "Traube, Lynne",
+          "Name": {
+            "FamilyName": "Traube",
+            "GivenName": "Lynne",
+            "ProfessionalSuffix": "NP"
+          },
+          "CareProviderType": {
+            "Description": "Nurse Practitioner"
+          }
+        },
+        "Diagnosis": {
+          "Code": "3708355400500",
+          "Description": "Pregnancy Test Unconfirm",
+          "SDACodingStandard": "Source_ID",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "3708355400500",
+              "CodeSystem": "Source_ID"
+            }, {
+              "Code": "V72.40",
+              "CodeSystem": "ICD-9"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "ICD-9",
+          "Description": "ICD-9"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-02T10:46:24Z"
+      }, {
+        "UpdatedOn": "2014-12-02T10:45:59Z",
+        "EncounterNumber": "90869788",
+        "DiagnosingClinician": {
+          "Code": "ltraube",
+          "Description": "Traube, Lynne",
+          "Name": {
+            "FamilyName": "Traube",
+            "GivenName": "Lynne",
+            "ProfessionalSuffix": "NP"
+          },
+          "CareProviderType": {
+            "Description": "Nurse Practitioner"
+          }
+        },
+        "Diagnosis": {
+          "Code": "3708355300500",
+          "Description": "Screen Exam Oth Spec Viral",
+          "SDACodingStandard": "Source_ID",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "3708355300500",
+              "CodeSystem": "Source_ID"
+            }, {
+              "Code": "V73.89",
+              "CodeSystem": "ICD-9"
+            }]
+          }
+        },
+        "DiagnosisType": {
+          "Code": "ICD-9",
+          "Description": "ICD-9"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-02T10:45:59Z"
+      }, {
+        "EncounterNumber": "90869788",
+        "DiagnosingClinician": {
+          "Code": "92231",
+          "Description": "92231"
+        },
+        "Diagnosis": {
+          "Code": "218.9",
+          "Description": "UTERINE LEIOMYOMA NOS",
+          "SDACodingStandard": "I9"
+        },
+        "DiagnosisType": {
+          "Code": "F",
+          "Description": "F"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-02T09:44:00Z"
+      }, {
+        "EncounterNumber": "90869788",
+        "DiagnosingClinician": {
+          "Code": "92231",
+          "Description": "92231"
+        },
+        "Diagnosis": {
+          "Code": "616.9",
+          "Description": "FEMALE GENIT INFLAM NOS",
+          "SDACodingStandard": "I9"
+        },
+        "DiagnosisType": {
+          "Code": "F",
+          "Description": "F"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-02T09:44:00Z"
+      }, {
+        "EncounterNumber": "90855579",
+        "DiagnosingClinician": {
+          "Code": "92231",
+          "Description": "92231"
+        },
+        "Diagnosis": {
+          "Code": "626.9",
+          "Description": "MENSTRUAL DISORDER NOS",
+          "SDACodingStandard": "I9"
+        },
+        "DiagnosisType": {
+          "Code": "F",
+          "Description": "F"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-10-28T13:15:00Z"
+      }, {
+        "EncounterNumber": "90855579",
+        "DiagnosingClinician": {
+          "Code": "92231",
+          "Description": "92231"
+        },
+        "Diagnosis": {
+          "Code": "218.9",
+          "Description": "UTERINE LEIOMYOMA NOS",
+          "SDACodingStandard": "I9"
+        },
+        "DiagnosisType": {
+          "Code": "F",
+          "Description": "F"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-10-28T13:15:00Z"
+      }, {
+        "EncounterNumber": "200017494119",
+        "DiagnosingClinician": {
+          "Code": "116657",
+          "Description": "116657"
+        },
+        "Diagnosis": {
+          "Code": "218.9",
+          "Description": "UTERINE LEIOMYOMA NOS",
+          "SDACodingStandard": "I9"
+        },
+        "DiagnosisType": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "NSUH",
+          "Description": "NSUH"
+        },
+        "EnteredOn": "2014-10-12T10:09:00Z"
+      }, {
+        "EncounterNumber": "200017494119",
+        "DiagnosingClinician": {
+          "Code": "116657",
+          "Description": "116657"
+        },
+        "Diagnosis": {
+          "Code": "625.3",
+          "Description": "DYSMENORRHEA",
+          "SDACodingStandard": "I9"
+        },
+        "DiagnosisType": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "NSUH",
+          "Description": "NSUH"
+        },
+        "EnteredOn": "2014-10-12T10:09:00Z"
+      }, {
+        "EncounterNumber": "200017494119",
+        "DiagnosingClinician": {
+          "Code": "116657",
+          "Description": "116657"
+        },
+        "Diagnosis": {
+          "Code": "626.9",
+          "Description": "MENSTRUAL DISORDER NOS",
+          "SDACodingStandard": "I9"
+        },
+        "DiagnosisType": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "NSUH",
+          "Description": "NSUH"
+        },
+        "EnteredOn": "2014-10-12T10:09:00Z"
+      }, {
+        "EncounterNumber": "90843587",
+        "DiagnosingClinician": {
+          "Code": "08205",
+          "Description": "08205"
+        },
+        "Diagnosis": {
+          "Code": "218.9",
+          "Description": "UTERINE LEIOMYOMA NOS",
+          "SDACodingStandard": "I9"
+        },
+        "DiagnosisType": {
+          "Code": "F",
+          "Description": "F"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-09-30T16:52:00Z"
+      }, {
+        "EncounterNumber": "90843587",
+        "DiagnosingClinician": {
+          "Code": "08205",
+          "Description": "08205"
+        },
+        "Diagnosis": {
+          "Code": "625.3",
+          "Description": "DYSMENORRHEA",
+          "SDACodingStandard": "I9"
+        },
+        "DiagnosisType": {
+          "Code": "F",
+          "Description": "F"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-09-30T16:52:00Z"
+      }, {
+        "EncounterNumber": "90843587",
+        "DiagnosingClinician": {
+          "Code": "08205",
+          "Description": "08205"
+        },
+        "Diagnosis": {
+          "Code": "626.9",
+          "Description": "MENSTRUAL DISORDER NOS",
+          "SDACodingStandard": "I9"
+        },
+        "DiagnosisType": {
+          "Code": "F",
+          "Description": "F"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-09-30T16:52:00Z"
+      }, {
+        "EncounterNumber": "90843587",
+        "DiagnosingClinician": {
+          "Code": "08205",
+          "Description": "08205"
+        },
+        "Diagnosis": {
+          "Code": "V13.4",
+          "Description": "HX ARTHRITIS",
+          "SDACodingStandard": "I9"
+        },
+        "DiagnosisType": {
+          "Code": "F",
+          "Description": "F"
+        },
+        "Status": {
+          "Code": "A",
+          "Description": "A"
+        },
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-09-30T16:52:00Z"
+      }]
+    },
+    "FamilyHistories": {
+      "FamilyHistory": [{
+        "UpdatedOn": "2015-01-03T23:00:41Z",
+        "FamilyMember": {
+          "Code": "MTH",
+          "Description": "Mother",
+          "SDACodingStandard": "RoleCode"
+        },
+        "Diagnosis": {
+          "Code": "428281000",
+          "Description": "Family history of Bone cancer",
+          "SDACodingStandard": "SNOMEDCT",
+          "OriginalText": "Family history of Bone cancer",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "170.9",
+              "Description": "Family history of Bone cancer",
+              "CodeSystem": "ICD-9-CM",
+              "Type": "A"
+            }, {
+              "Code": "C41.9",
+              "Description": "Family history of Bone cancer",
+              "CodeSystem": "ICD-10-CM",
+              "Type": "A"
+            }, {
+              "Code": "72268",
+              "Description": "Family history of Bone cancer",
+              "CodeSystem": "IMO ProblemIT",
+              "Type": "A"
+            }]
+          }
+        },
+        "NoteText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Status": "A",
+        "EnteredBy": {
+          "Code": "ADI KATZ MD",
+          "Description": "ADI KATZ MD"
+        }
+      }, {
+        "UpdatedOn": "2015-01-03T23:00:41Z",
+        "FamilyMember": {
+          "Code": "FTH",
+          "Description": "Father",
+          "SDACodingStandard": "RoleCode"
+        },
+        "Diagnosis": {
+          "Code": "363508008",
+          "Description": "Family history of Intestinal cancer",
+          "SDACodingStandard": "SNOMEDCT",
+          "OriginalText": "Family history of Intestinal cancer",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "159.0",
+              "Description": "Family history of Intestinal cancer",
+              "CodeSystem": "ICD-9-CM",
+              "Type": "A"
+            }, {
+              "Code": "C26.0",
+              "Description": "Family history of Intestinal cancer",
+              "CodeSystem": "ICD-10-CM",
+              "Type": "A"
+            }, {
+              "Code": "300557",
+              "Description": "Family history of Intestinal cancer",
+              "CodeSystem": "IMO ProblemIT",
+              "Type": "A"
+            }]
+          }
+        },
+        "NoteText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Status": "A",
+        "EnteredBy": {
+          "Code": "ADI KATZ MD",
+          "Description": "ADI KATZ MD"
+        }
+      }, {
+        "UpdatedOn": "2015-01-03T23:00:41Z",
+        "FamilyMember": {
+          "Code": "SIS",
+          "Description": "Sister",
+          "SDACodingStandard": "RoleCode"
+        },
+        "Diagnosis": {
+          "Code": "428281000",
+          "Description": "Family history of Bone cancer",
+          "SDACodingStandard": "SNOMEDCT",
+          "OriginalText": "Family history of Bone cancer",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "170.9",
+              "Description": "Family history of Bone cancer",
+              "CodeSystem": "ICD-9-CM",
+              "Type": "A"
+            }, {
+              "Code": "C41.9",
+              "Description": "Family history of Bone cancer",
+              "CodeSystem": "ICD-10-CM",
+              "Type": "A"
+            }, {
+              "Code": "72268",
+              "Description": "Family history of Bone cancer",
+              "CodeSystem": "IMO ProblemIT",
+              "Type": "A"
+            }]
+          }
+        },
+        "NoteText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Status": "A",
+        "EnteredBy": {
+          "Code": "ADI KATZ MD",
+          "Description": "ADI KATZ MD"
+        }
+      }, {
+        "UpdatedOn": "2015-01-03T23:00:41Z",
+        "FamilyMember": {
+          "Code": "SIS",
+          "Description": "Sister",
+          "SDACodingStandard": "RoleCode"
+        },
+        "Diagnosis": {
+          "Code": "363443007",
+          "Description": "Family history of Ovarian ca",
+          "SDACodingStandard": "SNOMEDCT",
+          "OriginalText": "Family history of Ovarian ca",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "183.0",
+              "Description": "Family history of Ovarian ca",
+              "CodeSystem": "ICD-9-CM",
+              "Type": "A"
+            }, {
+              "Code": "C56.9",
+              "Description": "Family history of Ovarian ca",
+              "CodeSystem": "ICD-10-CM",
+              "Type": "A"
+            }, {
+              "Code": "316432",
+              "Description": "Family history of Ovarian ca",
+              "CodeSystem": "IMO ProblemIT",
+              "Type": "A"
+            }]
+          }
+        },
+        "NoteText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Status": "A",
+        "EnteredBy": {
+          "Code": "ADI KATZ MD",
+          "Description": "ADI KATZ MD"
+        }
+      }, {
+        "UpdatedOn": "2014-12-02T11:26:27Z",
+        "EncounterNumber": "90869788",
+        "FamilyMember": {
+          "Code": "Family Member",
+          "Description": "Family Member"
+        },
+        "Diagnosis": {
+          "Code": "3708563500500",
+          "Description": "Family history of ovarian cancer",
+          "SDACodingStandard": "Source_ID",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "3708563500500",
+              "CodeSystem": "Source_ID"
+            }, {
+              "Code": "V16.41",
+              "CodeSystem": "ICD9"
+            }]
+          }
+        },
+        "NoteText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Status": "A",
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-02T11:26:27Z"
+      }, {
+        "UpdatedOn": "2014-12-02T11:26:48Z",
+        "EncounterNumber": "90869788",
+        "FamilyMember": {
+          "Code": "Family Member",
+          "Description": "Family Member"
+        },
+        "Diagnosis": {
+          "Code": "12900667",
+          "Description": "Family history of bone cancer",
+          "SDACodingStandard": "IMO",
+          "PriorCodes": {
+            "PriorCode": [{
+              "Code": "3708563600500",
+              "CodeSystem": "Source_ID"
+            }, {
+              "Code": "V16.8",
+              "CodeSystem": "ICD9"
+            }]
+          }
+        },
+        "NoteText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Status": "A",
+        "EnteredAt": {
+          "Code": "LIJH",
+          "Description": "LIJH"
+        },
+        "EnteredOn": "2014-12-02T11:26:48Z"
+      }]
+    }
+}
