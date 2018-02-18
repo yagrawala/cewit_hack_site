@@ -22,8 +22,35 @@ body {
     border-left: 1px solid #e7e7e7;
   }
 }
+.panel-primary {
+    border-color: #3e73ce;
+}
+.panel-primary>.panel-heading {
+    color: #fff;
+    background-color: #4885ed;
+    border-color: #3e73ce;
+}
+
+.panel-yellow {
+    border-color: #e0b20c;
+}
+.panel-yellow>.panel-heading {
+    color: #fff;
+    background-color: #e6c212;
+    border-color: #e0b20c;
+}
+
+.panel-red {
+    border-color: #c32b2f;
+}
+.panel-red>.panel-heading {
+    color: #fff;
+    background-color: #db3236;
+    border-color: #c32b2f;
+}
+
 nav {
-  background-color: #34363c !important;
+  background-color: #4a434e !important; /*7f4b9a*/
 }
 .nav-a {
     color: white;
@@ -252,7 +279,7 @@ table.dataTable thead .sorting:after {
 .panel-green > .panel-heading {
   border-color: #5cb85c;
   color: white;
-  background-color: #5cb85c;
+  background-color: #3cba54;
 }
 .panel-green > a {
   color: #5cb85c;
@@ -260,14 +287,14 @@ table.dataTable thead .sorting:after {
 .panel-green > a:hover {
   color: #3d8b3d;
 }
-.panel-red {
+/*.panel-red {
   border-color: #d9534f;
 }
 .panel-red > .panel-heading {
   border-color: #d9534f;
   color: white;
   background-color: #d9534f;
-}
+}*/
 .panel-red > a {
   color: #d9534f;
 }
@@ -275,12 +302,12 @@ table.dataTable thead .sorting:after {
   color: #b52b27;
 }
 .panel-yellow {
-  border-color: #f0ad4e;
+  border-color: #f1bf0d;
 }
 .panel-yellow > .panel-heading {
-  border-color: #f0ad4e;
+  border-color: #f1bf0d;
   color: white;
-  background-color: #f0ad4e;
+  background-color: #f4c20d;
 }
 .panel-yellow > a {
   color: #f0ad4e;
