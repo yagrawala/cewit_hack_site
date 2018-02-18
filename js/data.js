@@ -39,12 +39,16 @@ function uniqueArray(obj){
 
 var displayDiag = function (d) {
     var toggle = 1;
-    d.forEach(function (data) {
+    d_imp = d.splice(0,5);
+    debugger
+    d_imp.forEach(function (data) {
         $('#diag tbody').append('<tr class="odd gradeX">\
                                     <td>' + data.description + '</td>\
                                     <td>' + moment(data.time.replace('T', ' ').replace('Z', ''), 'YYYYMMDD').fromNow() + '</td>\
                                     <td>' + (data.status == 'A'?'Active':'Inactive') + '</td>\
                                 </tr>');
+    });
+    d.forEach( function (data) {
         if (toggle) {
         $('#timeline').append('<li>\
                                     <div class="timeline-badge"><i class="fa fa-gear"></i>\
@@ -79,7 +83,7 @@ var displayDiag = function (d) {
                                 </li>');
         toggle ^= 1;
         }
-        });
+    });
 
 }
 

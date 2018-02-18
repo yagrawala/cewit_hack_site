@@ -40,7 +40,7 @@
     <div id="wrapper">
 
         <!-- Navigation -->
-        <nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
+        <nav class="navbar navbar-default navbar-static-top text-light" role="navigation" style="margin-bottom: 0">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                     <span class="sr-only">Toggle navigation</span>
@@ -66,7 +66,7 @@
                                 <div>
                                     <strong class="text-muted">Patient Info Available</strong>
                                     <span class="pull-right text-muted">
-                                        <em>Today</em>
+                                        <em>10 hours ago</em>
                                     </span>
                                 </div>
                                 <div>
@@ -81,7 +81,7 @@
                                 <div>
                                     <strong  class="text-muted">Patient Info Available</strong>
                                     <span class="pull-right text-muted">
-                                        <em>Today</em>
+                                        <em>14 hours ago</em>
                                     </span>
                                 </div>
                                 <div>
@@ -96,7 +96,7 @@
                                 <div>
                                     <strong  class="text-muted">New Appointment</strong>
                                     <span class="pull-right text-muted">
-                                        <em>2 days ago</em>
+                                        <em>15 hours ago</em>
                                     </span>
                                 </div>
                                 <div>
@@ -157,6 +157,10 @@
                             <a href="patients.html"><i class="fa fa-dashboard fa-fw"></i> My Patients</a>
                         </li>
                         <li>
+                            <a href="widgets.html"><i class="fa fa-dashboard fa-fw"></i> My Messages</a>
+                        </li>
+                        <li class="divider"></li>
+                        <li>
                             <a href="widgets.html"><i class="fa fa-dashboard fa-fw"></i> My Widgets</a>
                         </li>
                     </ul>
@@ -168,24 +172,122 @@
 
         <div id="page-wrapper">
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-lg-10">
                     <h1 class="page-header">Joe Zeke Zemaitis</h1>
+                </div>
+                <div class="col-lg-2">
+                    <p>show current patient</p>
                 </div>
                 <!-- /.col-lg-12 -->
             </div>
             <!-- /.row -->
-    
+
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-3 col-md-6">
                     <div class="panel panel-green">
                         <div class="panel-heading">
-                            <i class="fa fa-stethoscope fa-fw"></i> Diagnosis
+                            <div class="row">
+                                <div class="col-xs-3">
+                                    <i class="fa fa-comments fa-5x"></i>
+                                </div>
+                                <div class="col-xs-9 text-right">
+                                    <div class="huge">500</div>
+                                    <div>Previous Diagnoses</div>
+                                </div>
+                            </div>
+                        </div>
+                        <a href="#">
+                            <div class="panel-footer">
+                                <span class="pull-left">High </span>
+                                <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
+                                <div class="clearfix"></div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <div class="row">
+                                <div class="col-xs-3">
+                                    <i class="fa fa-tasks fa-5x"></i>
+                                </div>
+                                <div class="col-xs-9 text-right">
+                                    <div class="huge">12</div>
+                                    <div>Allergies / Medications</div>
+                                </div>
+                            </div>
+                        </div>
+                        <a href="#">
+                            <div class="panel-footer">
+                                <span class="pull-left">Classification Label</span>
+                                <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
+                                <div class="clearfix"></div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="panel panel-yellow">
+                        <div class="panel-heading">
+                            <div class="row">
+                                <div class="col-xs-3">
+                                    <i class="fa fa-shopping-cart fa-5x"></i>
+                                </div>
+                                <div class="col-xs-9 text-right">
+                                    <div class="huge">0</div>
+                                    <div>Exams and Lab Reports</div>
+                                </div>
+                            </div>
+                        </div>
+                        <a href="#">
+                            <div class="panel-footer">
+                                <span class="pull-left">Classification Label</span>
+                                <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
+                                <div class="clearfix"></div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="panel panel-red">
+                        <div class="panel-heading">
+                            <div class="row">
+                                <div class="col-xs-3">
+                                    <i class="fa fa-support fa-5x"></i>
+                                </div>
+                                <div class="col-xs-9 text-right">
+                                    <div class="huge">0</div>
+                                    <div>Support Tickets!</div>
+                                </div>
+                            </div>
+                        </div>
+                        <a href="#">
+                            <div class="panel-footer">
+                                <span class="pull-left">Classification Label</span>
+                                <span class="pull-right"><i class="fa fa-arrow-circle-right"></i></span>
+                                <div class="clearfix"></div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <!-- /.row -->
+
+            <hr/>
+
+            <div class="row">
+                <div class="col-lg-7">
+                    <div class="panel panel-green">
+                        <div class="panel-heading">
+                            <i class="fa fa-stethoscope fa-fw"></i> Top Diagnosis
                         </div>
                         <!-- /.panel-heading -->
                         <div class="panel-body" style="max-height:350px;overflow-y:scroll;">
                             <table id="diag" width="100%" class="table table-striped table-bordered table-hover" id="dataTables-example">
                                 <thead>
                                     <tr>
+                                        <!-- <th>Severence</th> -->
                                         <th>Description</th>
                                         <th>Time</th>
                                         <th>Status</th>
@@ -198,25 +300,26 @@
                         <!-- /.panel-body -->
                     </div>
                 </div>
-                <div class="row">
-                <div class="col-lg-6">
+
+                <div class="col-lg-1"></div>
+
+                <div class="col-lg-5">
                     <div class="panel panel-primary">
                         <div class="panel-heading">
                             <i class="fa fa-stethoscope fa-fw"></i> Similar Medications
                         </div>
                         <!-- /.panel-heading -->
                         <div class="panel-body" style="max-height:350px;overflow-y:scroll;">
-                                <div>
-                                    <input id="search-medications" type="search" class="form-control input-md" placeholder="Search Compound">
-                                </div>
-                                <br/>
-                                <div id="dataTables-example_wrapper" class="dataTables_wrapper form-inline dt-bootstrap no-footer">
+                            <div>
+                                <input id="search-medications" type="search" class="form-control input-md" placeholder="Search Compound">
+                            </div>
+                            <p> Press Enter Key</p>
+                            <div id="dataTables-example_wrapper" class="dataTables_wrapper form-inline dt-bootstrap no-footer">
                                     <table id="med" width="100%" class="table table-striped table-bordered table-hover" id="dataTables-example">
                                         <tbody>
                                         </tbody>
                                     </table>
-                                </div>
-                            
+                            </div>
                         </div>
                         <!-- /.panel-body -->
                     </div>
@@ -224,24 +327,32 @@
                 </div>
             </div>
 
-                    <div class="panel panel-default">
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="panel panel-green">
                         <div class="panel-heading">
-                            <i class="fa fa-clock-o fa-fw"></i> Diagnosis Timeline
+                            <i class="fa fa-stethoscope fa-fw"></i> <i class="fa fa-clock-o fa-fw"></i> Diagnosis Timeline
                         </div>
                         <!-- /.panel-heading -->
                         <div class="panel-body">
                             <ul class="timeline" id="timeline">
                             </ul>
-                        </div>
+                         </div>
                         <!-- /.panel-body -->
                     </div>
                     <!-- /.panel -->
                 </div>
                 <!-- /.col-lg-8 -->
+            </div>
         </div>
         <!-- /#page-wrapper -->
 
-    </div>
+ 
+
+
+
+</div>
     <!-- /#wrapper -->
 
     <!-- jQuery -->
