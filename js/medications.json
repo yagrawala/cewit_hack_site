@@ -1,0 +1,1224 @@
+{
+  "drugGroup": {
+    "name": "Morphine",
+    "conceptGroup": [{
+      "tty": "BPCK"
+    }, {
+      "tty": "GPCK"
+    }, {
+      "tty": "SBD",
+      "conceptProperties": [{
+        "rxcui": "892496",
+        "name": "Morphine Sulfate 10 MG Extended Release Oral Capsule [Kadian]",
+        "synonym": "Kadian 10 MG Extended Release Oral Capsule",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C1964743"
+      }, {
+        "rxcui": "892556",
+        "name": "Morphine Sulfate 100 MG Extended Release Oral Capsule [Kadian]",
+        "synonym": "Kadian 100 MG Extended Release Oral Capsule",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0713539"
+      }, {
+        "rxcui": "892598",
+        "name": "Morphine Sulfate 20 MG Extended Release Oral Capsule [Kadian]",
+        "synonym": "Kadian 20 MG Extended Release Oral Capsule",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0713540"
+      }, {
+        "rxcui": "892645",
+        "name": "Morphine Sulfate 200 MG Extended Release Oral Capsule [Kadian]",
+        "synonym": "Kadian 200 MG Extended Release Oral Capsule",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C1876477"
+      }, {
+        "rxcui": "892658",
+        "name": "Morphine Sulfate 30 MG Extended Release Oral Capsule [Kadian]",
+        "synonym": "Kadian 30 MG Extended Release Oral Capsule",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0939166"
+      }, {
+        "rxcui": "894803",
+        "name": "Morphine Sulfate 50 MG Extended Release Oral Capsule [Kadian]",
+        "synonym": "Kadian 50 MG Extended Release Oral Capsule",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0713541"
+      }, {
+        "rxcui": "894805",
+        "name": "Morphine Sulfate 60 MG Extended Release Oral Capsule [Kadian]",
+        "synonym": "Kadian 60 MG Extended Release Oral Capsule",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0939167"
+      }, {
+        "rxcui": "894816",
+        "name": "Morphine Sulfate 80 MG Extended Release Oral Capsule [Kadian]",
+        "synonym": "Kadian 80 MG Extended Release Oral Capsule",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C1813670"
+      }, {
+        "rxcui": "1303731",
+        "name": "Morphine Sulfate 130 MG Extended Release Oral Capsule [Kadian]",
+        "synonym": "Kadian 130 MG Extended Release Oral Capsule",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C3484800"
+      }, {
+        "rxcui": "1303733",
+        "name": "Morphine Sulfate 150 MG Extended Release Oral Capsule [Kadian]",
+        "synonym": "Kadian 150 MG Extended Release Oral Capsule",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C3484802"
+      }, {
+        "rxcui": "1303738",
+        "name": "Morphine Sulfate 40 MG Extended Release Oral Capsule [Kadian]",
+        "synonym": "Kadian 40 MG Extended Release Oral Capsule",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C3484807"
+      }, {
+        "rxcui": "1303742",
+        "name": "Morphine Sulfate 70 MG Extended Release Oral Capsule [Kadian]",
+        "synonym": "Kadian 70 MG Extended Release Oral Capsule",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C3484811"
+      }, {
+        "rxcui": "892473",
+        "name": "10 ML Morphine Sulfate 0.5 MG/ML Injection [Duramorph]",
+        "synonym": "Duramorph 5 MG per 10 ML Injection",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0708834"
+      }, {
+        "rxcui": "892489",
+        "name": "10 ML Morphine Sulfate 1 MG/ML Injection [Duramorph]",
+        "synonym": "Duramorph 10 MG per 10 ML Injection",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0709059"
+      }, {
+        "rxcui": "892560",
+        "name": "Morphine Sulfate 100 MG Extended Release Oral Tablet [MS Contin]",
+        "synonym": "MS Contin 100 MG Extended Release Oral Tablet",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0712633"
+      }, {
+        "rxcui": "892574",
+        "name": "Morphine Sulfate 15 MG Extended Release Oral Tablet [MS Contin]",
+        "synonym": "MS Contin 15 MG Extended Release Oral Tablet",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0712375"
+      }, {
+        "rxcui": "892648",
+        "name": "Morphine Sulfate 200 MG Extended Release Oral Tablet [MS Contin]",
+        "synonym": "MS Contin 200 MG Extended Release Oral Tablet",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0712646"
+      }, {
+        "rxcui": "892652",
+        "name": "20 ML Morphine Sulfate 25 MG/ML Injection [Infumorph]",
+        "synonym": "Infumorph 500 MG per 20 ML Injection",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0710693"
+      }, {
+        "rxcui": "892660",
+        "name": "Morphine Sulfate 30 MG Extended Release Oral Tablet [MS Contin]",
+        "synonym": "MS Contin 30 MG Extended Release Oral Tablet",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0712464"
+      }, {
+        "rxcui": "894813",
+        "name": "Morphine Sulfate 60 MG Extended Release Oral Tablet [MS Contin]",
+        "synonym": "MS Contin 60 MG Extended Release Oral Tablet",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0712593"
+      }, {
+        "rxcui": "1731999",
+        "name": "20 ML Morphine Sulfate 10 MG/ML Injection [Infumorph]",
+        "synonym": "Infumorph 200 MG per 20 ML Injection",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0709899"
+      }, {
+        "rxcui": "1086310",
+        "name": "24 HR Morphine Sulfate 75 MG Extended Release Oral Capsule [Avinza]",
+        "synonym": "24 HR Avinza 75 MG Extended Release Oral Capsule",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C2962344"
+      }, {
+        "rxcui": "892299",
+        "name": "24 HR Morphine Sulfate 120 MG Extended Release Oral Capsule [Avinza]",
+        "synonym": "24 HR Avinza 120 MG Extended Release Oral Capsule",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C1169805"
+      }, {
+        "rxcui": "892344",
+        "name": "24 HR Morphine Sulfate 30 MG Extended Release Oral Capsule [Avinza]",
+        "synonym": "24 HR Avinza 30 MG Extended Release Oral Capsule",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C1169810"
+      }, {
+        "rxcui": "892351",
+        "name": "24 HR Morphine Sulfate 60 MG Extended Release Oral Capsule [Avinza]",
+        "synonym": "24 HR Avinza 60 MG Extended Release Oral Capsule",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C1169809"
+      }, {
+        "rxcui": "892357",
+        "name": "24 HR Morphine Sulfate 90 MG Extended Release Oral Capsule [Avinza]",
+        "synonym": "24 HR Avinza 90 MG Extended Release Oral Capsule",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C1169804"
+      }, {
+        "rxcui": "1190284",
+        "name": "24 HR Morphine Sulfate 45 MG Extended Release Oral Capsule [Avinza]",
+        "synonym": "24 HR Avinza 45 MG Extended Release Oral Capsule",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C3245093"
+      }, {
+        "rxcui": "863847",
+        "name": "Abuse-Deterrent Morphine Sulfate 100 MG / Naltrexone hydrochloride 4 MG Extended Release Oral Capsule [Embeda]",
+        "synonym": "Embeda (morphine sulfate 100 MG / naltrexone hydrochloride 4 MG) Extended Release Oral Capsule",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C2722343"
+      }, {
+        "rxcui": "863849",
+        "name": "Abuse-Deterrent Morphine Sulfate 20 MG / Naltrexone hydrochloride 0.8 MG Extended Release Oral Capsule [Embeda]",
+        "synonym": "Embeda (morphine sulfate 20 MG / naltrexone hydrochloride 0.8 MG) Extended Release Oral Capsule",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C2719315"
+      }, {
+        "rxcui": "863851",
+        "name": "Abuse-Deterrent Morphine Sulfate 30 MG / Naltrexone hydrochloride 1.2 MG Extended Release Oral Capsule [Embeda]",
+        "synonym": "Embeda (morphine sulfate 30 MG / naltrexone hydrochloride 1.2 MG) Extended Release Oral Capsule",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C2719320"
+      }, {
+        "rxcui": "863853",
+        "name": "Abuse-Deterrent Morphine Sulfate 50 MG / Naltrexone hydrochloride 2 MG Extended Release Oral Capsule [Embeda]",
+        "synonym": "Embeda (morphine sulfate 50 MG / naltrexone hydrochloride 2 MG) Extended Release Oral Capsule",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C2719325"
+      }, {
+        "rxcui": "863855",
+        "name": "Abuse-Deterrent Morphine Sulfate 60 MG / Naltrexone hydrochloride 2.4 MG Extended Release Oral Capsule [Embeda]",
+        "synonym": "Embeda (morphine sulfate 60 MG / naltrexone hydrochloride 2.4 MG) Extended Release Oral Capsule",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C2722345"
+      }, {
+        "rxcui": "863857",
+        "name": "Abuse-Deterrent Morphine Sulfate 80 MG / Naltrexone hydrochloride 3.2 MG Extended Release Oral Capsule [Embeda]",
+        "synonym": "Embeda (morphine sulfate 80 MG / naltrexone hydrochloride 3.2 MG) Extended Release Oral Capsule",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C2722347"
+      }, {
+        "rxcui": "1728784",
+        "name": "10 ML Morphine Sulfate 0.5 MG/ML Injection [Astramorph]",
+        "synonym": "Astramorph 5 MG per 10 ML Injection",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4048912"
+      }, {
+        "rxcui": "1728792",
+        "name": "2 ML Morphine Sulfate 0.5 MG/ML Injection [Astramorph]",
+        "synonym": "Astramorph 1 MG per 2 ML Injection",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0708833"
+      }, {
+        "rxcui": "1728801",
+        "name": "10 ML Morphine Sulfate 1 MG/ML Injection [Astramorph]",
+        "synonym": "Astramorph 10 MG per 10 ML Injection",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4048914"
+      }, {
+        "rxcui": "1728806",
+        "name": "2 ML Morphine Sulfate 1 MG/ML Injection [Astramorph]",
+        "synonym": "Astramorph 2 MG per 2 ML Injection",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0709058"
+      }, {
+        "rxcui": "1745881",
+        "name": "Abuse-Deterrent 12 HR Morphine Sulfate 15 MG Extended Release Oral Tablet [Morphabond]",
+        "synonym": "Morphabond 15 MG 12HR Extended Release Oral Tablet",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4083135"
+      }, {
+        "rxcui": "1745886",
+        "name": "Abuse-Deterrent 12 HR Morphine Sulfate 100 MG Extended Release Oral Tablet [Morphabond]",
+        "synonym": "Morphabond 100 MG 12HR Extended Release Oral Tablet",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4224652"
+      }, {
+        "rxcui": "1745889",
+        "name": "Abuse-Deterrent 12 HR Morphine Sulfate 30 MG Extended Release Oral Tablet [Morphabond]",
+        "synonym": "Morphabond 30 MG 12HR Extended Release Oral Tablet",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4224651"
+      }, {
+        "rxcui": "1745892",
+        "name": "Abuse-Deterrent 12 HR Morphine Sulfate 60 MG Extended Release Oral Tablet [Morphabond]",
+        "synonym": "Morphabond 60 MG 12HR Extended Release Oral Tablet",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4224650"
+      }, {
+        "rxcui": "1871440",
+        "name": "Abuse-Deterrent 12 HR Morphine Sulfate 15 MG Extended Release Oral Tablet [Arymo]",
+        "synonym": "Arymo ER 15 MG 12HR Extended Release Oral Tablet",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4306032"
+      }, {
+        "rxcui": "1871443",
+        "name": "Abuse-Deterrent 12 HR Morphine Sulfate 30 MG Extended Release Oral Tablet [Arymo]",
+        "synonym": "Arymo ER 30 MG 12HR Extended Release Oral Tablet",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4306314"
+      }, {
+        "rxcui": "1871446",
+        "name": "Abuse-Deterrent 12 HR Morphine Sulfate 60 MG Extended Release Oral Tablet [Arymo]",
+        "synonym": "Arymo ER 60 MG 12HR Extended Release Oral Tablet",
+        "tty": "SBD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4306313"
+      }]
+    }, {
+      "tty": "SCD",
+      "conceptProperties": [{
+        "rxcui": "894942",
+        "name": "24 HR Morphine Sulfate 45 MG Extended Release Oral Capsule",
+        "synonym": "24 HR MS 45 MG Extended Release Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C2609585"
+      }, {
+        "rxcui": "894970",
+        "name": "24 HR Morphine Sulfate 75 MG Extended Release Oral Capsule",
+        "synonym": "24 HR MS 75 MG Extended Release Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C2609583"
+      }, {
+        "rxcui": "895248",
+        "name": "Morphine Sulfate 75 MG Rectal Suppository",
+        "synonym": "MS 75 MG Rectal Suppository",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C1276921"
+      }, {
+        "rxcui": "863848",
+        "name": "Abuse-Deterrent Morphine Sulfate 20 MG / Naltrexone hydrochloride 0.8 MG Extended Release Oral Capsule",
+        "synonym": "Abuse-Deterrent MS 20 MG / Naltrexone hydrochloride 0.8 MG Extended Release Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C2719311"
+      }, {
+        "rxcui": "863850",
+        "name": "Abuse-Deterrent Morphine Sulfate 30 MG / Naltrexone hydrochloride 1.2 MG Extended Release Oral Capsule",
+        "synonym": "Abuse-Deterrent MS 30 MG / Naltrexone hydrochloride 1.2 MG Extended Release Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C2719318"
+      }, {
+        "rxcui": "863852",
+        "name": "Abuse-Deterrent Morphine Sulfate 50 MG / Naltrexone hydrochloride 2 MG Extended Release Oral Capsule",
+        "synonym": "Abuse-Deterrent MS 50 MG / Naltrexone hydrochloride 2 MG Extended Release Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C2719323"
+      }, {
+        "rxcui": "891885",
+        "name": "12 HR Morphine Sulfate 30 MG Extended Release Oral Tablet",
+        "synonym": "12 HR MS 30 MG Extended Release Oral Tablet",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0783516"
+      }, {
+        "rxcui": "891888",
+        "name": "Morphine Sulfate 30 MG Extended Release Oral Tablet",
+        "synonym": "MS 30 MG Extended Release Oral Tablet",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0978744"
+      }, {
+        "rxcui": "892342",
+        "name": "24 HR Morphine Sulfate 30 MG Extended Release Oral Capsule",
+        "synonym": "24 HR MS 30 MG Extended Release Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C1145744"
+      }, {
+        "rxcui": "892345",
+        "name": "Morphine Sulfate 30 MG Extended Release Oral Capsule",
+        "synonym": "MS 30 MG Extended Release Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0789615"
+      }, {
+        "rxcui": "892596",
+        "name": "Morphine Sulfate 20 MG Extended Release Oral Capsule",
+        "synonym": "MS 20 MG Extended Release Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C1163826"
+      }, {
+        "rxcui": "892603",
+        "name": "Morphine Sulfate 20 MG Rectal Suppository",
+        "synonym": "MS 20 MG Rectal Suppository",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0689669"
+      }, {
+        "rxcui": "892669",
+        "name": "Morphine Sulfate 30 MG Oral Capsule",
+        "synonym": "MS 30 MG Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0978743"
+      }, {
+        "rxcui": "892672",
+        "name": "Morphine Sulfate 30 MG Oral Tablet",
+        "synonym": "MS 30 MG Oral Tablet",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0689676"
+      }, {
+        "rxcui": "892678",
+        "name": "Morphine Sulfate 30 MG Rectal Suppository",
+        "synonym": "MS 30 MG Rectal Suppository",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0355523"
+      }, {
+        "rxcui": "894801",
+        "name": "Morphine Sulfate 50 MG Extended Release Oral Capsule",
+        "synonym": "MS 50 MG Extended Release Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C1163827"
+      }, {
+        "rxcui": "895201",
+        "name": "Morphine Sulfate 20 MG Oral Tablet",
+        "synonym": "MS 20 MG Oral Tablet",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0693421"
+      }, {
+        "rxcui": "895221",
+        "name": "Morphine Sulfate 50 MG Oral Tablet",
+        "synonym": "MS 50 MG Oral Tablet",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0786093"
+      }, {
+        "rxcui": "895227",
+        "name": "Morphine Sulfate 50 MG Rectal Suppository",
+        "synonym": "MS 50 MG Rectal Suppository",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C1276920"
+      }, {
+        "rxcui": "1871441",
+        "name": "Abuse-Deterrent 12 HR Morphine Sulfate 30 MG Extended Release Oral Tablet",
+        "synonym": "Abuse-Deterrent 12 HR MS 30 MG Extended Release Oral Tablet",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4306824"
+      }, {
+        "rxcui": "1872234",
+        "name": "Abuse-Deterrent 12 HR Morphine Sulfate 100 MG Extended Release Oral Tablet",
+        "synonym": "Abuse-Deterrent 12 HR MS 100 MG Extended Release Oral Tablet",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4317468"
+      }, {
+        "rxcui": "863845",
+        "name": "Abuse-Deterrent Morphine Sulfate 100 MG / Naltrexone hydrochloride 4 MG Extended Release Oral Capsule",
+        "synonym": "Abuse-Deterrent MS 100 MG / Naltrexone hydrochloride 4 MG Extended Release Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C2722341"
+      }, {
+        "rxcui": "863854",
+        "name": "Abuse-Deterrent Morphine Sulfate 60 MG / Naltrexone hydrochloride 2.4 MG Extended Release Oral Capsule",
+        "synonym": "Abuse-Deterrent MS 60 MG / Naltrexone hydrochloride 2.4 MG Extended Release Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C2722344"
+      }, {
+        "rxcui": "863856",
+        "name": "Abuse-Deterrent Morphine Sulfate 80 MG / Naltrexone hydrochloride 3.2 MG Extended Release Oral Capsule",
+        "synonym": "Abuse-Deterrent MS 80 MG / Naltrexone hydrochloride 3.2 MG Extended Release Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C2722346"
+      }, {
+        "rxcui": "891874",
+        "name": "Morphine Sulfate 100 MG Extended Release Oral Tablet",
+        "synonym": "MS 100 MG Extended Release Oral Tablet",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0978725"
+      }, {
+        "rxcui": "891878",
+        "name": "12 HR Morphine Sulfate 15 MG Extended Release Oral Tablet",
+        "synonym": "12 HR MS 15 MG Extended Release Oral Tablet",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0785533"
+      }, {
+        "rxcui": "891881",
+        "name": "Morphine Sulfate 15 MG Extended Release Oral Tablet",
+        "synonym": "MS 15 MG Extended Release Oral Tablet",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0982805"
+      }, {
+        "rxcui": "891883",
+        "name": "12 HR Morphine Sulfate 100 MG Extended Release Oral Tablet",
+        "synonym": "12 HR MS 100 MG Extended Release Oral Tablet",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0785534"
+      }, {
+        "rxcui": "891890",
+        "name": "12 HR Morphine Sulfate 60 MG Extended Release Oral Tablet",
+        "synonym": "12 HR MS 60 MG Extended Release Oral Tablet",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0783517"
+      }, {
+        "rxcui": "891893",
+        "name": "Morphine Sulfate 60 MG Extended Release Oral Tablet",
+        "synonym": "MS 60 MG Extended Release Oral Tablet",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0978752"
+      }, {
+        "rxcui": "892297",
+        "name": "24 HR Morphine Sulfate 120 MG Extended Release Oral Capsule",
+        "synonym": "24 HR MS 120 MG Extended Release Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0792594"
+      }, {
+        "rxcui": "892349",
+        "name": "24 HR Morphine Sulfate 60 MG Extended Release Oral Capsule",
+        "synonym": "24 HR MS 60 MG Extended Release Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C1145745"
+      }, {
+        "rxcui": "892352",
+        "name": "Morphine Sulfate 60 MG Extended Release Oral Capsule",
+        "synonym": "MS 60 MG Extended Release Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0789616"
+      }, {
+        "rxcui": "892355",
+        "name": "24 HR Morphine Sulfate 90 MG Extended Release Oral Capsule",
+        "synonym": "24 HR MS 90 MG Extended Release Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0792592"
+      }, {
+        "rxcui": "892494",
+        "name": "Morphine Sulfate 10 MG Extended Release Oral Capsule",
+        "synonym": "MS 10 MG Extended Release Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0590559"
+      }, {
+        "rxcui": "892516",
+        "name": "Morphine Sulfate 10 MG Rectal Suppository",
+        "synonym": "MS 10 MG Rectal Suppository",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0689659"
+      }, {
+        "rxcui": "892531",
+        "name": "Morphine Sulfate 10 MG/ML Injectable Solution",
+        "synonym": "MS 10 MG/ML Injectable Solution",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0991718"
+      }, {
+        "rxcui": "892554",
+        "name": "Morphine Sulfate 100 MG Extended Release Oral Capsule",
+        "synonym": "MS 100 MG Extended Release Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C1163828"
+      }, {
+        "rxcui": "892579",
+        "name": "Morphine Sulfate 15 MG Oral Capsule",
+        "synonym": "MS 15 MG Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0978731"
+      }, {
+        "rxcui": "892582",
+        "name": "Morphine Sulfate 15 MG Oral Tablet",
+        "synonym": "MS 15 MG Oral Tablet",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0689665"
+      }, {
+        "rxcui": "892589",
+        "name": "Morphine Sulfate 2 MG/ML Oral Solution",
+        "synonym": "MS 2 MG/ML Oral Solution",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0978728"
+      }, {
+        "rxcui": "892625",
+        "name": "Morphine Sulfate 20 MG/ML Oral Solution",
+        "synonym": "MS 20 MG/ML Oral Solution",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0708427"
+      }, {
+        "rxcui": "892643",
+        "name": "Morphine Sulfate 200 MG Extended Release Oral Capsule",
+        "synonym": "MS 200 MG Extended Release Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0592857"
+      }, {
+        "rxcui": "892646",
+        "name": "Morphine Sulfate 200 MG Extended Release Oral Tablet",
+        "synonym": "MS 200 MG Extended Release Oral Tablet",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0981600"
+      }, {
+        "rxcui": "894814",
+        "name": "Morphine Sulfate 80 MG Extended Release Oral Capsule",
+        "synonym": "MS 80 MG Extended Release Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C1813175"
+      }, {
+        "rxcui": "894912",
+        "name": "1 ML Morphine Sulfate 10 MG/ML Prefilled Syringe",
+        "synonym": "1 ML MS 10 MG/ML Prefilled Syringe",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C1321198"
+      }, {
+        "rxcui": "894918",
+        "name": "12 HR Morphine Sulfate 200 MG Extended Release Oral Tablet",
+        "synonym": "12 HR MS 200 MG Extended Release Oral Tablet",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0788086"
+      }, {
+        "rxcui": "895014",
+        "name": "Morphine Sulfate 10 MG Oral Tablet",
+        "synonym": "MS 10 MG Oral Tablet",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0787990"
+      }, {
+        "rxcui": "895016",
+        "name": "Morphine Sulfate 10 MG/ML Oral Solution",
+        "synonym": "MS 10 MG/ML Oral Solution",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0693094"
+      }, {
+        "rxcui": "895022",
+        "name": "Morphine Sulfate 100 MG Rectal Suppository",
+        "synonym": "MS 100 MG Rectal Suppository",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0789813"
+      }, {
+        "rxcui": "895185",
+        "name": "Morphine Sulfate 15 MG Rectal Suppository",
+        "synonym": "MS 15 MG Rectal Suppository",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0793348"
+      }, {
+        "rxcui": "895199",
+        "name": "Morphine Sulfate 2 MG/ML Oral Suspension",
+        "synonym": "MS 2 MG/ML Oral Suspension",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0693701"
+      }, {
+        "rxcui": "895202",
+        "name": "Morphine Sulfate 20 MG/ML Injectable Solution",
+        "synonym": "MS 20 MG/ML Injectable Solution",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0794661"
+      }, {
+        "rxcui": "895206",
+        "name": "Morphine Sulfate 200 MG Oral Tablet",
+        "synonym": "MS 200 MG Oral Tablet",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C1300043"
+      }, {
+        "rxcui": "895247",
+        "name": "Morphine Sulfate 60 MG Oral Tablet",
+        "synonym": "MS 60 MG Oral Tablet",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0787993"
+      }, {
+        "rxcui": "998212",
+        "name": "1 ML Morphine Sulfate 2 MG/ML Prefilled Syringe",
+        "synonym": "1 ML MS 2 MG/ML Prefilled Syringe",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C2920421"
+      }, {
+        "rxcui": "1728783",
+        "name": "10 ML Morphine Sulfate 0.5 MG/ML Injection",
+        "synonym": "10 ML MS 0.5 MG/ML Injection",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4048910"
+      }, {
+        "rxcui": "1728789",
+        "name": "30 ML Morphine Sulfate 0.5 MG/ML Injection",
+        "synonym": "30 ML MS 0.5 MG/ML Injection",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4048911"
+      }, {
+        "rxcui": "1728791",
+        "name": "2 ML Morphine Sulfate 0.5 MG/ML Injection",
+        "synonym": "2 ML MS 0.5 MG/ML Injection",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4074428"
+      }, {
+        "rxcui": "1728800",
+        "name": "10 ML Morphine Sulfate 1 MG/ML Injection",
+        "synonym": "10 ML MS 1 MG/ML Injection",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0978736"
+      }, {
+        "rxcui": "1728805",
+        "name": "2 ML Morphine Sulfate 1 MG/ML Injection",
+        "synonym": "2 ML MS 1 MG/ML Injection",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4074427"
+      }, {
+        "rxcui": "1728999",
+        "name": "30 ML Morphine Sulfate 1 MG/ML Injection",
+        "synonym": "30 ML MS 1 MG/ML Injection",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4048840"
+      }, {
+        "rxcui": "1729197",
+        "name": "1 ML Morphine Sulfate 2 MG/ML Cartridge",
+        "synonym": "1 ML MS 2 MG/ML Cartridge",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4048996"
+      }, {
+        "rxcui": "1731517",
+        "name": "10 ML Morphine Sulfate 25 MG/ML Injection",
+        "synonym": "10 ML MS 25 MG/ML Injection",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4048921"
+      }, {
+        "rxcui": "1731520",
+        "name": "4 ML Morphine Sulfate 25 MG/ML Injection",
+        "synonym": "4 ML MS 25 MG/ML Injection",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4048922"
+      }, {
+        "rxcui": "1731522",
+        "name": "20 ML Morphine Sulfate 25 MG/ML Injection",
+        "synonym": "20 ML MS 25 MG/ML Injection",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4048920"
+      }, {
+        "rxcui": "1731993",
+        "name": "1 ML Morphine Sulfate 10 MG/ML Injection",
+        "synonym": "1 ML MS 10 MG/ML Injection",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4048916"
+      }, {
+        "rxcui": "1731995",
+        "name": "1 ML Morphine Sulfate 10 MG/ML Cartridge",
+        "synonym": "1 ML MS 10 MG/ML Cartridge",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4048925"
+      }, {
+        "rxcui": "1731998",
+        "name": "20 ML Morphine Sulfate 10 MG/ML Injection",
+        "synonym": "20 ML MS 10 MG/ML Injection",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4074420"
+      }, {
+        "rxcui": "1190785",
+        "name": "Atropine Sulfate 0.6 MG/ML / Morphine Sulfate 10 MG/ML Injectable Solution",
+        "synonym": "Atropine Sulfate 0.6 MG/ML / MS 10 MG/ML Injectable Solution",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0358406"
+      }, {
+        "rxcui": "1871434",
+        "name": "Abuse-Deterrent 12 HR Morphine Sulfate 15 MG Extended Release Oral Tablet",
+        "synonym": "Abuse-Deterrent 12 HR MS 15 MG Extended Release Oral Tablet",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4306825"
+      }, {
+        "rxcui": "1871444",
+        "name": "Abuse-Deterrent 12 HR Morphine Sulfate 60 MG Extended Release Oral Tablet",
+        "synonym": "Abuse-Deterrent 12 HR MS 60 MG Extended Release Oral Tablet",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4306823"
+      }, {
+        "rxcui": "894780",
+        "name": "Morphine Sulfate 4 MG/ML Oral Solution",
+        "synonym": "MS 4 MG/ML Oral Solution",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0978739"
+      }, {
+        "rxcui": "894807",
+        "name": "Morphine Sulfate 5 MG Rectal Suppository",
+        "synonym": "MS 5 MG Rectal Suppository",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0689679"
+      }, {
+        "rxcui": "894911",
+        "name": "0.7 ML Morphine Sulfate 14.3 MG/ML Auto-Injector",
+        "synonym": "0.7 ML MS 14.3 MG/ML Auto-Injector",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C1966493"
+      }, {
+        "rxcui": "894914",
+        "name": "1 ML Morphine Sulfate 8 MG/ML Prefilled Syringe",
+        "synonym": "1 ML MS 8 MG/ML Prefilled Syringe",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0994900"
+      }, {
+        "rxcui": "894933",
+        "name": "Morphine Sulfate 150 MG Extended Release Oral Capsule",
+        "synonym": "MS 150 MG Extended Release Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C2731298"
+      }, {
+        "rxcui": "894986",
+        "name": "Morphine Sulfate 0.4 MG/ML Oral Solution",
+        "synonym": "MS 0.4 MG/ML Oral Solution",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C1162012"
+      }, {
+        "rxcui": "895194",
+        "name": "Morphine Sulfate 15 MG/ML Injectable Solution",
+        "synonym": "MS 15 MG/ML Injectable Solution",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0978733"
+      }, {
+        "rxcui": "895208",
+        "name": "Morphine Sulfate 3 MG/ML Oral Suspension",
+        "synonym": "MS 3 MG/ML Oral Suspension",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0693702"
+      }, {
+        "rxcui": "895213",
+        "name": "Morphine Sulfate 30 MG/ML Injectable Solution",
+        "synonym": "MS 30 MG/ML Injectable Solution",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0355494"
+      }, {
+        "rxcui": "895215",
+        "name": "Morphine Sulfate 35 MG Rectal Suppository",
+        "synonym": "MS 35 MG Rectal Suppository",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C1276919"
+      }, {
+        "rxcui": "895217",
+        "name": "Morphine Sulfate 5 MG Extended Release Oral Tablet",
+        "synonym": "MS 5 MG Extended Release Oral Tablet",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0693185"
+      }, {
+        "rxcui": "895219",
+        "name": "Morphine Sulfate 5 MG/ML Oral Suspension",
+        "synonym": "MS 5 MG/ML Oral Suspension",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0353588"
+      }, {
+        "rxcui": "895233",
+        "name": "Morphine Sulfate 6 MG/ML Oral Suspension",
+        "synonym": "MS 6 MG/ML Oral Suspension",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0353587"
+      }, {
+        "rxcui": "895238",
+        "name": "Morphine Sulfate 6 MG/ML Oral Solution",
+        "synonym": "MS 6 MG/ML Oral Solution",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0789703"
+      }, {
+        "rxcui": "895240",
+        "name": "Morphine Sulfate 6.67 MG/ML Oral Suspension",
+        "synonym": "MS 6.67 MG/ML Oral Suspension",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0353589"
+      }, {
+        "rxcui": "895861",
+        "name": "Morphine Sulfate 25 MG Oral Tablet",
+        "synonym": "MS 25 MG Oral Tablet",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0786092"
+      }, {
+        "rxcui": "895867",
+        "name": "Morphine hydrochloride 40 MG Oral Tablet",
+        "synonym": "",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0787992"
+      }, {
+        "rxcui": "895869",
+        "name": "Morphine Sulfate 5 MG Oral Tablet",
+        "synonym": "MS 5 MG Oral Tablet",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0786091"
+      }, {
+        "rxcui": "895871",
+        "name": "Morphine Sulfate 50 MG/ML Oral Solution",
+        "synonym": "MS 50 MG/ML Oral Solution",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C0786097"
+      }, {
+        "rxcui": "998213",
+        "name": "1 ML Morphine Sulfate 4 MG/ML Prefilled Syringe",
+        "synonym": "1 ML MS 4 MG/ML Prefilled Syringe",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C2920422"
+      }, {
+        "rxcui": "1442790",
+        "name": "1 ML Morphine Sulfate 5 MG/ML Prefilled Syringe",
+        "synonym": "1 ML MS 5 MG/ML Prefilled Syringe",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C3671512"
+      }, {
+        "rxcui": "1731530",
+        "name": "1 ML Morphine Sulfate 15 MG/ML Injection",
+        "synonym": "1 ML MS 15 MG/ML Injection",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4048928"
+      }, {
+        "rxcui": "1731537",
+        "name": "20 ML Morphine Sulfate 50 MG/ML Injection",
+        "synonym": "20 ML MS 50 MG/ML Injection",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4073609"
+      }, {
+        "rxcui": "1731545",
+        "name": "50 ML Morphine Sulfate 50 MG/ML Injection",
+        "synonym": "50 ML MS 50 MG/ML Injection",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4048937"
+      }, {
+        "rxcui": "1732003",
+        "name": "1 ML Morphine Sulfate 8 MG/ML Cartridge",
+        "synonym": "1 ML MS 8 MG/ML Cartridge",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4048926"
+      }, {
+        "rxcui": "1732006",
+        "name": "1 ML Morphine Sulfate 4 MG/ML Injection",
+        "synonym": "1 ML MS 4 MG/ML Injection",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4048933"
+      }, {
+        "rxcui": "1732011",
+        "name": "1 ML Morphine Sulfate 8 MG/ML Injection",
+        "synonym": "1 ML MS 8 MG/ML Injection",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4048938"
+      }, {
+        "rxcui": "1732014",
+        "name": "1 ML Morphine Sulfate 4 MG/ML Cartridge",
+        "synonym": "1 ML MS 4 MG/ML Cartridge",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4048934"
+      }, {
+        "rxcui": "1732136",
+        "name": "1 ML Morphine Sulfate 5 MG/ML Injection",
+        "synonym": "1 ML MS 5 MG/ML Injection",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4048936"
+      }, {
+        "rxcui": "1732138",
+        "name": "30 ML Morphine Sulfate 5 MG/ML Injection",
+        "synonym": "30 ML MS 5 MG/ML Injection",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4048935"
+      }, {
+        "rxcui": "1733080",
+        "name": "1 ML Morphine Sulfate 15 MG/ML Cartridge",
+        "synonym": "1 ML MS 15 MG/ML Cartridge",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C4049062"
+      }, {
+        "rxcui": "1232113",
+        "name": "1 ML Morphine Sulfate 15 MG/ML Prefilled Syringe",
+        "synonym": "1 ML MS 15 MG/ML Prefilled Syringe",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C3248008"
+      }, {
+        "rxcui": "1303729",
+        "name": "Morphine Sulfate 130 MG Extended Release Oral Capsule",
+        "synonym": "MS 130 MG Extended Release Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C3484798"
+      }, {
+        "rxcui": "1303736",
+        "name": "Morphine Sulfate 40 MG Extended Release Oral Capsule",
+        "synonym": "MS 40 MG Extended Release Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C3484805"
+      }, {
+        "rxcui": "1303740",
+        "name": "Morphine Sulfate 70 MG Extended Release Oral Capsule",
+        "synonym": "MS 70 MG Extended Release Oral Capsule",
+        "tty": "SCD",
+        "language": "ENG",
+        "suppress": "N",
+        "umlscui": "C3484809"
+      }]
+    }]
+  }
+}
