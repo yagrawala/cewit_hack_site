@@ -14,34 +14,94 @@ var getDiagonosis = function (diagonosisFile, limit=5, callback) {
                 }
             }
         });
-        callback(finalData.slice(0, limit));
+        callback(uniqueArray(finalData));
     });
+}
+
+function uniqueArray(obj){
+    var uniques=[];
+    var stringify={};
+    for(var i=0;i<obj.length;i++){
+       var keys=Object.keys(obj[i]);
+       keys.sort(function(a,b) {return a-b});
+       var str='';
+        for(var j=0;j<keys.length;j++){
+           str+= JSON.stringify(keys[j]);
+           str+= JSON.stringify(obj[i][keys[j]]);
+        }
+        if(!stringify.hasOwnProperty(str)){
+            uniques.push(obj[i]);
+            stringify[str]=true;
+        }
+    }
+    return uniques;
 }
 
 var displayDiag = function (d) {
+    var toggle = 1;
     d.forEach(function (data) {
-        console.log(data.time.replace('T', ' ').replace('Z', ''));
         $('#diag tbody').append('<tr class="odd gradeX">\
                                     <td>' + data.description + '</td>\
                                     <td>' + moment(data.time.replace('T', ' ').replace('Z', ''), 'YYYYMMDD').fromNow() + '</td>\
-                                    <td>' + data.status + '</td>\
+                                    <td>' + (data.status == 'A'?'Active':'Inactive') + '</td>\
                                 </tr>');
-    });
+        if (toggle) {
+        $('#timeline').append('<li>\
+                                    <div class="timeline-badge"><i class="fa fa-gear"></i>\
+                                    </div>\
+                                    <div class="timeline-panel">\
+                                        <div class="timeline-heading">\
+                                            <h4 class="timeline-title">' + data.description + '</h4>\
+                                            <p><small class="text-muted"><i class="fa fa-clock-o"></i> ' + moment(data.time.replace('T', ' ').replace('Z', ''), 'YYYYMMDD').fromNow() + '</small>\
+                                            </p>\
+                                        </div>\
+                                        <div class="timeline-body">\
+                                            <p></p>\
+                                        </div>\
+                                    </div>\
+                                </li>');
+        toggle ^= 1;
+        }
+        else {
+        $('#timeline').append('<li class="timeline-inverted">\
+                                    <div class="timeline-badge"><i class="fa fa-gear"></i>\
+                                    </div>\
+                                    <div class="timeline-panel">\
+                                        <div class="timeline-heading">\
+                                            <h4 class="timeline-title">' + data.description + '</h4>\
+                                            <p><small class="text-muted"><i class="fa fa-clock-o"></i> ' + moment(data.time.replace('T', ' ').replace('Z', ''), 'YYYYMMDD').fromNow() + '</small>\
+                                            </p>\
+                                        </div>\
+                                        <div class="timeline-body">\
+                                            <p></p>\
+                                        </div>\
+                                    </div>\
+                                </li>');
+        toggle ^= 1;
+        }
+        });
+
 }
 
-var getMedications = function (query, medicationFile, limit=5, callback) {
-    if (query != 'Morphine') return;
+var getMedications = function (medicationFile, limit=5, callback) {
      $.getJSON(medicationFile, function (dData) {
-        var medicationData = dData.drugGroup.conceptGroup[2].conceptProperties;
-        var finalData = [];
-        medicationData.forEach(function (data) {
-            if (data.hasOwnProperty('synonym')) {
-                finalData.push({
-                    'name':data.synonym
-                });
+        if (dData.hasOwnProperty('drugGroup') && dData.drugGroup.hasOwnProperty('conceptGroup')) {
+            var mediData = dData.drugGroup.conceptGroup;
+            var finalData = [];
+            for (var i = 0; i < mediData.length; i++) {
+                if (mediData[i].hasOwnProperty('conceptProperties')) {
+                    var medicationData = mediData[i].conceptProperties;
+                    medicationData.forEach(function (data) {
+                    if (data.hasOwnProperty('synonym')) {
+                        finalData.push({
+                            'name':data.synonym
+                            });
+                        }
+                    });
+                }
             }
-        });
-        callback(finalData.slice(0, limit));
+            callback(uniqueArray(finalData));
+        }
     });
 }
 
@@ -59,6 +119,6 @@ getDiagonosis('../js/diagnosis.json', 5, displayDiag);
 $('#search-medications').keypress(function(e) {
     if(e.which == 13) {
         $('#med tbody').empty();
-        getMedications($('#search-medications').val(), '../js/medications.json', 5, displayMed);
+        getMedications('https://rxnav.nlm.nih.gov/REST/drugs.json?name=' + $('#search-medications').val(), 5, displayMed);
     }
 });
