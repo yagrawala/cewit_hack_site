@@ -20,9 +20,10 @@ var getDiagonosis = function (diagonosisFile, limit=5, callback) {
 
 var displayDiag = function (d) {
     d.forEach(function (data) {
+        console.log(data.time.replace('T', ' ').replace('Z', ''));
         $('#diag tbody').append('<tr class="odd gradeX">\
                                     <td>' + data.description + '</td>\
-                                    <td>' + data.time + '</td>\
+                                    <td>' + moment(data.time.replace('T', ' ').replace('Z', ''), 'YYYYMMDD').fromNow() + '</td>\
                                     <td>' + data.status + '</td>\
                                 </tr>');
     });
