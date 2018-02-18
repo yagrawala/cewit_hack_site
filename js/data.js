@@ -116,12 +116,33 @@ var displayMed = function (d) {
     });
 }
 
-
-getDiagonosis('../js/diagnosis.json', 5, displayDiag);
-
 $('#search-medications').keypress(function(e) {
     if(e.which == 13) {
         $('#med tbody').empty();
         getMedications('https://rxnav.nlm.nih.gov/REST/drugs.json?name=' + $('#search-medications').val(), 5, displayMed);
     }
+});
+
+function getParameterByName(name, url) {
+    if (!url) url = window.location.href;
+    name = name.replace(/[\[\]]/g, "\\$&");
+    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, " "));
+}
+
+var init = function() {
+    $('.page-header')[0].innerHTML = getParameterByName('name');
+    if (getParameterByName('id') == 1) {
+        getDiagonosis('../js/1.json', 5, displayDiag);
+    }
+    else if (getParameterByName('id') == 2) {
+        getDiagonosis('../js/2.json', 5, displayDiag);
+    }
+}
+
+$(document).ready(function() {
+    init();
 });
