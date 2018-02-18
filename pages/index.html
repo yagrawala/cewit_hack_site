@@ -307,14 +307,18 @@
                     <div class="col-lg-5">
                         <div class="panel panel-red">
                             <div class="panel-heading">
-                                <i class="fa fa-plus-square fa-fw"></i> Similar Medications
+                                <i class="fa fa-plus-square fa-fw"></i>Similar Medications
                             </div>
                             <!-- /.panel-heading -->
                             <div class="panel-body" style="max-height:350px;overflow-y:scroll;">
-                                <div>
-                                    <input id="search-medications" type="search" class="form-control input-md" placeholder="Search Compound">
+                                <div class="row marginBottom16">
+                                    <div class="col-lg-9">
+                                        <input id="search-medications" type="search" class="form-control input-md" placeholder="Search Compound">
+                                    </div>
+                                    <div class="col-lg-2 noMargin noPadding">
+                                        <button id="search-click" type="button" class="button button-default form-control bg-Gray">Search</button>
+                                    </div>
                                 </div>
-                                <p> Press Enter Key</p>
                                 <div id="dataTables-example_wrapper" class="dataTables_wrapper form-inline dt-bootstrap no-footer">
                                         <table id="med" width="100%" class="table table-striped table-bordered table-hover" id="dataTables-example">
                                             <tbody>

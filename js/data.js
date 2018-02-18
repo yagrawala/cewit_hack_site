@@ -50,7 +50,7 @@ var displayDiag = function (d) {
     d.forEach( function (data) {
         if (toggle) {
         $('#timeline').append('<li>\
-                                    <div class="timeline-badge"><i class="fa fa-gear"></i>\
+                                    <div class="timeline-badge"><i class="fa fa-calendar"></i>\
                                     </div>\
                                     <div class="timeline-panel">\
                                         <div class="timeline-heading">\
@@ -67,7 +67,7 @@ var displayDiag = function (d) {
         }
         else {
         $('#timeline').append('<li class="timeline-inverted">\
-                                    <div class="timeline-badge"><i class="fa fa-gear"></i>\
+                                    <div class="timeline-badge"><i class="fa fa-calendar"></i>\
                                     </div>\
                                     <div class="timeline-panel">\
                                         <div class="timeline-heading">\
@@ -118,6 +118,13 @@ var displayMed = function (d) {
 
 $('#search-medications').keypress(function(e) {
     if(e.which == 13) {
+        $('#med tbody').empty();
+        getMedications('https://rxnav.nlm.nih.gov/REST/drugs.json?name=' + $('#search-medications').val(), 5, displayMed);
+    }
+});
+
+$('#search-click').click(function(e) {
+    if($('#search-medications').val()) {
         $('#med tbody').empty();
         getMedications('https://rxnav.nlm.nih.gov/REST/drugs.json?name=' + $('#search-medications').val(), 5, displayMed);
     }
