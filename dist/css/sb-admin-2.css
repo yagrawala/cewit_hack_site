@@ -295,6 +295,18 @@ table.dataTable thead .sorting:after {
   color: white;
   background-color: #d9534f;
 }*/
+.marginBottom16{
+  margin-bottom: 16px;
+}
+.bg-Gray {
+  background-color: lightgray;
+}
+.noMargin {
+  margin: : 0px;
+}
+.noPadding {
+  padding: 0px;
+}
 .panel-red > a {
   color: #d9534f;
 }
