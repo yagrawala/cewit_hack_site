@@ -28,4 +28,36 @@ var displayDiag = function (d) {
     });
 }
 
+var getMedications = function (query, medicationFile, limit=5, callback) {
+    if (query != 'Morphine') return;
+     $.getJSON(medicationFile, function (dData) {
+        var medicationData = dData.drugGroup.conceptGroup[2].conceptProperties;
+        var finalData = [];
+        medicationData.forEach(function (data) {
+            if (data.hasOwnProperty('synonym')) {
+                finalData.push({
+                    'name':data.synonym
+                });
+            }
+        });
+        callback(finalData.slice(0, limit));
+    });
+}
+
+var displayMed = function (d) {
+    d.forEach(function (data) {
+        $('#med tbody').append('<tr class="odd gradeX">\
+                                    <td>' + data.name + '</td>\
+                                </tr>');
+    });
+}
+
+
 getDiagonosis('../js/diagnosis.json', 5, displayDiag);
+
+$('#search-medications').keypress(function(e) {
+    if(e.which == 13) {
+        $('#med tbody').empty();
+        getMedications($('#search-medications').val(), '../js/medications.json', 5, displayMed);
+    }
+});
