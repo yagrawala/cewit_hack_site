@@ -141,6 +141,10 @@ var init = function() {
     else if (getParameterByName('id') == 2) {
         getDiagonosis('../js/2.json', 5, displayDiag);
     }
+    else {
+        getDiagonosis('../js/1.json', 5, displayDiag);
+        $('.page-header')[0].innerHTML = 'Joe Zeke Zemaitis';
+    }
 }
 
 $(document).ready(function() {
